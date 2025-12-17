@@ -1,0 +1,7 @@
+{
+  "name": "MERRY CHRISTMAS - Pink Gold Energy",
+  "description": "A high-fidelity 3D cinematic Christmas experience featuring a glowing pink-gold particle tree, falling snow, and magical energy effects using React Three Fiber and Custom Shaders.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
